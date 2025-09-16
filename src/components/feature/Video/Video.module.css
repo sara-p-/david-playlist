@@ -1,0 +1,16 @@
+.video {
+  width: 100%;
+  max-width: 800px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* gap: 16px; */
+}
+
+.title {
+  margin-bottom: 8px;
+}
+
+.band {
+  margin-bottom: 8px;
+}
