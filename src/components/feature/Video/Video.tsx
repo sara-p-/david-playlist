@@ -1,4 +1,4 @@
-import styles from './video.module.css'
+import styles from './Video.module.css'
 import LiteYouTubeEmbed from 'react-lite-youtube-embed'
 import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 
