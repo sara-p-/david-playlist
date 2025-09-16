@@ -13,6 +13,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 32px;
-  /* padding: 32px 16px; */
+  gap: 80px;
+  padding: 48px 0;
+  @media (min-width: 768px) {
+    gap: 120px;
+  }
 }

@@ -10,146 +10,199 @@ function App() {
       <Header title='Playlist for David' />
       <div className='app'>
         <Container>
-          <Video
-            videoId='KI0ERvg8LI4'
-            title='Farewell Ride'
-            band='Beck'
-            videoTitle='Beck - Farewell Ride'
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='KI0ERvg8LI4' videoTitle='Beck - Farewell Ride' />
+          <Description songTitle='Farewell Ride' band='Beck'>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Aspernatur rerum culpa, incidunt eaque voluptatum ullam minima
+              odio? Alias molestiae nemo doloribus distinctio explicabo ex
+              laudantium dignissimos ab a enim mollitia autem aspernatur, quas
+              nobis nam reprehenderit sunt, eos nihil natus vero, ea quaerat
+              quia. Rerum maiores laborum perferendis. Laudantium, voluptatem.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='aJU4k1Lrhh0'
-            title='Bad Ritual'
-            band='Timber Timbre'
             videoTitle='Timber Timbre - Bad Ritual'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description songTitle='Bad Ritual' band='Timber Timbre'>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
+              repudiandae temporibus necessitatibus quos recusandae aliquam
+              adipisci magni consequuntur! Consectetur veritatis incidunt
+              voluptatum harum maxime inventore ipsam, molestias, optio adipisci
+              accusamus autem in doloribus, a mollitia quam consequatur commodi
+              dolores molestiae neque ad. Omnis reprehenderit optio accusamus
+              voluptatibus ratione dicta quis. Quia, corporis. Iusto, magni rem
+              eos distinctio officia eum a id odit adipisci totam nostrum
+              aliquid inventore accusamus nulla voluptatem vitae. Earum
+              explicabo nesciunt beatae?
+            </p>
           </Description>
         </Container>
         <Container>
-          <Video
-            videoId='6RpqAWPvhR8'
-            title='Wanna'
-            band='BRONCHO'
-            videoTitle='BRONCHO - Wanna'
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='6RpqAWPvhR8' videoTitle='BRONCHO - Wanna' />
+          <Description songTitle='Wanna' band='BRONCHO'>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
+              quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Quisquam, quos.
+            </p>
           </Description>
         </Container>
         <Container>
-          <Video
-            videoId='iRXE3NNaiks'
-            title='I Summon You'
-            band='Spoon'
-            videoTitle='Spoon - I Summon You'
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='iRXE3NNaiks' videoTitle='Spoon - I Summon You' />
+          <Description songTitle='I Summon You' band='Spoon'>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
+              quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Quisquam, quos.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='X61BVv6pLtw'
-            title='Postcards from Italy'
-            band='Beirut'
             videoTitle='Beirut - Postcards from Italy'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description songTitle='Postcards from Italy' band='Beirut'>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Doloremque neque magnam quisquam impedit sequi minus, excepturi
+              tempora nesciunt omnis praesentium possimus hic dolores molestias
+              facere quo rerum et ab nisi ratione quas, autem maxime. Labore
+              molestiae accusamus delectus adipisci, corporis unde nisi
+              reiciendis cumque libero sunt iste quaerat inventore perspiciatis
+              ratione aperiam eos ea, quia obcaecati maiores doloribus quas.
+              Dolorem enim explicabo fugiat dolore repellendus sapiente quia
+              minus soluta repellat neque iusto magnam alias, a excepturi sint
+              blanditiis ipsum! Maxime ad tempora saepe magni dicta aliquid
+              ullam ratione quibusdam, harum earum repellat ea porro
+              reprehenderit eius, fugit, placeat tempore officiis?
+            </p>
           </Description>
         </Container>
         <Container>
-          <Video
-            videoId='zYwCmcB0XMw'
-            title='New Slang'
-            band='The Shins'
-            videoTitle='The Shins - New Slang'
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='zYwCmcB0XMw' videoTitle='The Shins - New Slang' />
+          <Description songTitle='New Slang' band='The Shins'>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
+              quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Quisquam, quos.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='NVdAZzrX0CY'
-            title='Me and the Devil'
-            band='Soap&Skin'
             videoTitle='Soap&Skin - Me and the Devil'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description songTitle='Me and the Devil' band='Soap&Skin'>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed,
+              labore. Dicta veritatis officia sequi facilis. Eum cupiditate
+              nulla architecto incidunt veniam hic, dicta inventore ex eos quos
+              rem molestiae mollitia iure, sunt, non accusamus. Incidunt quis,
+              deleniti tenetur quae blanditiis impedit in, reiciendis,
+              doloremque ipsum error facere cumque reprehenderit laboriosam!
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='qwoLACv_srQ'
-            title='Someone Great'
-            band='LCD Soundsystem'
             videoTitle='LCD Soundsystem - Someone Great'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description songTitle='Someone Great' band='LCD Soundsystem'>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Exercitationem voluptatum inventore vitae debitis distinctio quis
+              reprehenderit voluptas commodi. Eveniet eius nemo omnis. Rem
+              suscipit mollitia quas accusamus sit aut qui.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='wycjnCCgUes'
-            title='It Feels Like We Only Go Backwards'
-            band='Tame Impala'
             videoTitle='Tame Impala - It Feels Like We Only Go Backwards'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description
+            songTitle='It Feels Like We Only Go Backwards'
+            band='Tame Impala'
+          >
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Exercitationem voluptatum inventore vitae debitis distinctio quis
+              reprehenderit voluptas commodi. Eveniet eius nemo omnis. Rem
+              suscipit mollitia quas accusamus sit aut qui.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='DXSY0aspgKo'
-            title='Oh Comely'
-            band='Neutral Milk Hotel'
             videoTitle='Neutral Milk Hotel - Oh Comely'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description songTitle='Oh Comely' band='Neutral Milk Hotel'>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Exercitationem voluptatum inventore vitae debitis distinctio quis
+              reprehenderit voluptas commodi. Eveniet eius nemo omnis. Rem
+              suscipit mollitia quas accusamus sit aut qui.
+            </p>
           </Description>
         </Container>
         <Container>
-          <Video
-            videoId='PFxr5Ie3z_E'
-            title="I'll Drown"
-            band='Soley'
-            videoTitle="Soley - I'll Drown"
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='PFxr5Ie3z_E' videoTitle="Soley - I'll Drown" />
+          <Description songTitle="I'll Drown" band='Soley'>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Exercitationem voluptatum inventore vitae debitis distinctio quis
+              reprehenderit voluptas commodi. Eveniet eius nemo omnis. Rem
+              suscipit mollitia quas accusamus sit aut qui.
+            </p>
           </Description>
         </Container>
         <Container>
           <Video
             videoId='N-oERBst8L0'
-            title='I Lost Something in the Hills'
-            band='Sibylle Baier'
             videoTitle='Sibylle Baier - I Lost Something in the Hills'
           />
-          <Description>
-            <p>description goes here</p>
+          <Description
+            songTitle='I Lost Something in the Hills'
+            band='Sibylle Baier'
+          >
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni a
+              harum adipisci, tenetur fugiat eligendi reiciendis atque cumque
+              perspiciatis voluptatum non omnis magnam delectus illum recusandae
+              laudantium unde rerum distinctio consequatur, soluta vitae. Quo
+              tempore repudiandae eius, laboriosam explicabo consequuntur.
+            </p>
           </Description>
         </Container>
         <Container>
-          <Video
-            videoId='lmc21V-zBq0'
-            title='Run Boy Run'
-            band='Woodkid'
-            videoTitle='Woodkid - Run Boy Run'
-          />
-          <Description>
-            <p>description goes here</p>
+          <Video videoId='lmc21V-zBq0' videoTitle='Woodkid - Run Boy Run' />
+          <Description songTitle='Run Boy Run' band='Woodkid'>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+              Consequuntur voluptates repudiandae sunt ex perferendis molestias
+              rerum, nemo fugit impedit vero culpa, praesentium nostrum
+              dignissimos ab corrupti, atque sint dolor deserunt ipsa? Quod
+              atque vero voluptatibus vitae nesciunt optio modi quibusdam
+              corrupti in est, totam cumque fugit iusto impedit ullam, magni
+              reiciendis, omnis nam architecto. Numquam facere dignissimos
+              placeat perspiciatis totam!
+            </p>
           </Description>
         </Container>
       </div>

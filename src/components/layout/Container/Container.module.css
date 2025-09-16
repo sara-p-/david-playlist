@@ -1,16 +1,16 @@
 .container {
   width: 100%;
+  max-width: 950px;
   margin: 0 auto;
   padding: 0 16px;
 }
 
 .wrapper {
-  max-width: var(--max-width);
-  border-bottom: 3px solid var(--primary);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 16px;
   width: 100%;
+  margin: 0 auto;
 }
